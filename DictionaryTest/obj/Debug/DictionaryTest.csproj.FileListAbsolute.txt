@@ -5,3 +5,10 @@ C:\Users\User\source\repos\DictionaryTest\DictionaryTest\obj\Debug\DictionaryTes
 C:\Users\User\source\repos\DictionaryTest\DictionaryTest\obj\Debug\DictionaryTest.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\DictionaryTest\DictionaryTest\obj\Debug\DictionaryTest.exe
 C:\Users\User\source\repos\DictionaryTest\DictionaryTest\obj\Debug\DictionaryTest.pdb
+C:\Users\eqspe\source\repos\DictionaryForEnglish\DictionaryTest\bin\Debug\DictionaryTest.exe.config
+C:\Users\eqspe\source\repos\DictionaryForEnglish\DictionaryTest\bin\Debug\DictionaryTest.exe
+C:\Users\eqspe\source\repos\DictionaryForEnglish\DictionaryTest\bin\Debug\DictionaryTest.pdb
+C:\Users\eqspe\source\repos\DictionaryForEnglish\DictionaryTest\obj\Debug\DictionaryTest.csproj.AssemblyReference.cache
+C:\Users\eqspe\source\repos\DictionaryForEnglish\DictionaryTest\obj\Debug\DictionaryTest.csproj.CoreCompileInputs.cache
+C:\Users\eqspe\source\repos\DictionaryForEnglish\DictionaryTest\obj\Debug\DictionaryTest.exe
+C:\Users\eqspe\source\repos\DictionaryForEnglish\DictionaryTest\obj\Debug\DictionaryTest.pdb

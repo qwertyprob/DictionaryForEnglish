@@ -110,7 +110,7 @@ namespace DictionaryTest
 
         public static void SaveDictInTxt(Dictionary<string, string> WordDictionary)
         {
-            string folderPath = @"C:\Users\User\source\repos\DictionaryTest\DictionaryTest\Dictionary";
+            string folderPath = @"C:\Users\eqspe\source\repos\DictionaryForEnglish\DictionaryTest\Dictionary";
 
             Console.WriteLine("Name of file:");
             string fileName = Console.ReadLine();
@@ -135,10 +135,15 @@ namespace DictionaryTest
             // Записываем данные в файл
             using (StreamWriter writer = new StreamWriter(filePath, false))
             {
+                writer.WriteLine("Word: || Definiton:");
+                writer.WriteLine("----------------------------");
+
                 foreach (var kvp in WordDictionary)
                 {
-                    writer.WriteLine($"{kvp.Key}: {kvp.Value}");
+                    
+                    writer.WriteLine($"{kvp.Key}:   {kvp.Value}");
                 }
+                writer.WriteLine("----------------------------");
             }
 
             Console.WriteLine($"Dictionary saved to {filePath}");
